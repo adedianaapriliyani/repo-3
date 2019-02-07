@@ -6,3 +6,4 @@ WO-App
 4. Modul wardrobe
 5. Modul LEBE
 6. Modul Prewed (Ini Fiqi cuy)
+7. modul kenangan
