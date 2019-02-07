@@ -5,3 +5,4 @@ WO-App
 3. Modul Property
 4. Modul wardrobe
 5. Modul LEBE
+6. Modul Prewed (Ini Fiqi cuy)
